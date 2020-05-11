@@ -1,0 +1,186 @@
+.headBar {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-botton: 10px;
+	background-color: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: auto;
+}
+
+.headBarText {
+	color: 287650;
+	font-size: 1.2em;
+	line-height: 1.2em;
+}
+
+.headBarText:hover {
+	background-color: white;
+	text-decoration: none;
+	font-size: 1.3em;
+	font-weight: 500;
+}
+
+.textRight {
+	float: right;
+	padding-right:-20px;
+	display: inline-block;
+}
+
+.textLeft {
+	float: left;
+	display: inline-block;
+}
+
+.textMiddle {
+	display: inline-block;
+	position: absolute;
+	vertical-align: middle;
+	margin-left:-25px;
+}
+
+.entityButton {
+	background-color: 287650;
+	color: white;
+	border-width: thin;
+	border-color: 287650;
+	font-weight: 500;
+}
+
+.entityButton:hover {
+	background-color: white;
+	color: 287650;
+	border-width: thin;
+	border-color: 287650;
+}
+
+.button {
+	min-width:120px;
+}
+
+.pagination {
+	color: grey;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.paginatedBar {
+	padding: 15px;
+}
+
+.headBarImage {
+	width: 100px;
+	height: 50px;
+	margin-left: 5px;
+	margin-right: 5px;
+	opacity: 0.5;
+}
+
+body {
+	background-color: f2f2f2;
+	margin-top: 75px;
+	margin-botton: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.messageBoard {
+	background-color: white;
+	color: black;
+	overflow: none;
+}
+
+.categoryBoard {
+	background-color: white;
+	color: black;
+	overflow: none;
+	margin-top: 35px;
+}
+
+.messageMargin {
+	margin-bottom: 10px;
+}
+
+.messagePad {
+	padding-top: 5px;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.messageTable {
+	width: 100%;
+	height: auto;
+	border: 1px #f2f2f2;
+	padding: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.messageTable th {
+	padding: 5px;
+	color: #808080;
+}
+
+.messageTable tr {
+	border: #f2f2f2;
+	border-spacing: 5px;
+}
+
+.messageTable td {
+	padding: 5px;
+}
+
+.messageTable a:hover {
+	font-weight: normal;
+	color: green;
+}
+
+.newDiscussion {
+	width: 100%;
+	height: auto;
+	background-color: white;
+	margin-top: 5px;
+}
+
+.columnPad {
+	margin-top: 15px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+
+a{
+	color: grey;
+	text-decoration: none;
+}
+
+a:hover {
+	color: 287650;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 1.5em;
+	color: #287650;
+	margin-top: 10px;
+}
+
+h2 {
+	font-size: 1.5em;
+	color: #287650;
+}
+
+h3 {
+	font-size: 1.3em;
+	color: #287650;
+}
+
+h3 {
+	font-size: 1.1em;
+	color: #287650;
+}
