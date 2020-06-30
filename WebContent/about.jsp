@@ -116,8 +116,8 @@
 				<thead>
 					<th style="margin-left: 25px;">The application has a login
 						page wherein the user may enter the credentials for login. Sample
-						login details are given below: <br> Username: rishabhp513<br>
-						Password: Moto$2099<br> The login page also has a
+						login details are given below: <br> Username: rishabhp5134<br>
+						Password: Moto$2010<br> The login page also has a
 						registration button which may be clicked to register a new user
 						into the user database. If an incorrect username or password is
 						provided, it will automatically redirect to the registration page.
